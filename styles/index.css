@@ -21,3 +21,8 @@ html, body {
     top: 40%;
     right: 40%;
 }
+
+.button {
+   font-size: 30px;
+   transform: translateX(+150%);
+}
