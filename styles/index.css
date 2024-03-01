@@ -24,6 +24,12 @@ html, body {
 
 .button {
    font-size: 30px;
-   transform: translateX(+150%);
+   transform: translateX(+350%);
    cursor: pointer;
+}
+
+.login-input {
+    height: 30px;
+    font-size: 30px;
+
 }
