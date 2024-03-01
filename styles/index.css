@@ -25,4 +25,5 @@ html, body {
 .button {
    font-size: 30px;
    transform: translateX(+150%);
+   cursor: pointer;
 }
